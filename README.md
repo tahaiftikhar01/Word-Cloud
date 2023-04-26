@@ -109,6 +109,7 @@ barplot(colSums(s),
         las=2,
         col = rainbow(10),
         ylab= "Count",
-        main = "Sentiment Sources of Apple Tweets <img width="361" alt="Screenshot 2023-04-27 at 2 21 42 AM" src="https://user-images.githubusercontent.com/97010579/234705679-12e76286-eb01-471b-96f8-2c539cafd153.png">
-with Post- EPS")
+        main = "Sentiment Sources of Apple Tweets with Post- EPS")
+<img width="361" alt="Screenshot 2023-04-27 at 2 21 42 AM" src="https://user-images.githubusercontent.com/97010579/234705679-12e76286-eb01-471b-96f8-2c539cafd153.png">
+
 
