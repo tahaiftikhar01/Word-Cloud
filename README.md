@@ -7,17 +7,13 @@ install.packages("lubridate")
 install.packages("scales")
 install.packages("reshape2")
 #NATURAL LANGUAGE PROCESSSING
-#FOR EXAMPLE AUTO CORRECT IN GMAIL/NLP/EMAIL WRITING IN CHAT GPT, PERSONALIZED RECOMMENDSATOINS 
-#NLP IS SPECIFICALLY USED TO PROCESE HUMAN EMOTIONS, ITS A PART OF TEXT MINING
-#YOU HAVE TO TRAIN THE NLP FOR BETTER RESULTS
 
 
-#does not cover processing and content analysis and then sentiment analysis
+
 rm(list=ls())
-#load the data
+
  apple<- read.csv(file.choose(), header=T)
  
- #we're only intersted in the first column
  
  #TM package
  library(tm)
