@@ -1,5 +1,9 @@
 # Word-Cloud
-In this project i'll be running API on twitter for the Apple tweets posted in 2015 and make a word cloud from it.
+In this project i'll be running API on twitter for the Apple tweets posted in 2015 and make a word cloud from it. The image represents the most tweeted words in the largest too samllest size.
+
+
+
+
 install.packages ('tm')
 install.packages("wordcloud")
 install.packages("syuzhet")
